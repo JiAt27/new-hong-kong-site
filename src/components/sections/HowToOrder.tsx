@@ -66,6 +66,11 @@ export default function HowToOrder() {
           ))}
         </div>
 
+        {/* Delivery note */}
+        <p className="text-center text-xs text-navy-500/70 mb-6">
+          {t('howToOrder.deliveryNote')}
+        </p>
+
         {/* CTA */}
         <div className="text-center">
           <a

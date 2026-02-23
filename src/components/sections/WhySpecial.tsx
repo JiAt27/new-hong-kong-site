@@ -3,7 +3,6 @@ import { useTranslation } from 'react-i18next';
 import { useReducedMotion } from '../../hooks/useReducedMotion';
 import SectionWrapper from '../layout/SectionWrapper';
 import { CloudPatternOverlay } from '../ui/CloudPattern';
-import recyclingBadge from '../../assets/images/recycling-badge.png';
 
 const badgeKeys = ['meat', 'handmade', 'noMsg', 'noPreservatives', 'water', 'fresh', 'local'] as const;
 
@@ -91,18 +90,6 @@ export default function WhySpecial() {
           </div>
         </div>
 
-        {/* Recycling callout */}
-        <div className="flex flex-col sm:flex-row items-center gap-6 bg-white/5 rounded-2xl p-6 border border-white/10 max-w-2xl mx-auto">
-          <img
-            src={recyclingBadge}
-            alt={t('whySpecial.recycle')}
-            className="w-20 h-20 object-contain flex-shrink-0"
-          />
-          <div>
-            <h3 className="font-display font-bold text-lg mb-1">{t('whySpecial.recycle')}</h3>
-            <p className="text-navy-200 text-sm leading-relaxed">{t('whySpecial.recycleText')}</p>
-          </div>
-        </div>
       </div>
     </SectionWrapper>
   );

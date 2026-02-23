@@ -13,9 +13,6 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <img src={logoImg} alt="NEW HONG KONG" className="h-28 sm:h-32 mb-4" />
-            <p className="text-white/70 text-sm leading-relaxed">
-              {t('footer.recycleMsg')}
-            </p>
           </div>
 
           {/* Follow Us */}

@@ -9,7 +9,7 @@
     "whereToBuy": "Dónde Comprar"
   },
   "hero": {
-    "headline": "Los Dumplings Que Puebla Estaba Esperando",
+    "headline": "Tradición en Cada Mordida",
     "subheadline": "Receta familiar de 100 años. Hechos a mano con ingredientes locales. Del congelador a tu mesa en 7 minutos.",
     "tagline": "Tradición culinaria: Donde lo artesanal nace en las manos",
     "cta": "Pide los Tuyos por WhatsApp"
@@ -73,8 +73,6 @@
       "fresh": "Recién hechos → congelados al instante",
       "local": "Hechos en Puebla con ingredientes locales"
     },
-    "recycle": "Recíclame",
-    "recycleText": "Nuestras bolsas son selladas al vacío. Dales una segunda vida antes de desecharlas — el planeta te lo agradece.",
     "lunch": "Tip de mamá: perfectos para el lunch escolar"
   },
   "howToOrder": {
@@ -82,13 +80,14 @@
     "steps": {
       "choose": "Elige tus sabores",
       "message": "Mándanos WhatsApp",
-      "receive": "Recibe en tu puerta"
+      "receive": "Recibe en tu puerta*"
     },
+    "deliveryNote": "*Entrega gratuita solo en Lomas 1, 2 y 3. Para otras zonas, consulta nuestras tiendas disponibles.",
     "cta": "Empezar Mi Pedido"
   },
   "testimonials": {
     "title": "Lo Que Dicen Nuestras Familias",
-    "subtitle": "Más de 100 familias en Puebla ya los probaron — esto es lo que opinan"
+    "subtitle": "Más de 1,000 familias en Puebla ya los probaron — esto es lo que opinan"
   },
   "story": {
     "title": "De Shandong a Tu Mesa",
@@ -138,7 +137,7 @@
       }
     },
     "videoTitle": "Mira cómo se preparan",
-    "chickenNote": "Los dumplings de pollo tardan 10 minutos en todos los métodos.",
+    "chickenNote": "Los dumplings de pollo tardan 10 minutos extra en todos los métodos.",
     "servingTitle": "Ideas Para Servirlos",
     "servingSubtitle": "Los dumplings son solo el inicio — hay mil formas de disfrutarlos",
     "servings": {
@@ -146,8 +145,8 @@
       "salad": "Sobre una ensalada fresca con aderezo asiático",
       "soup": "En un caldo caliente con verduras — comfort food nivel 100",
       "noodles": "Con fideos y caldo — estilo noodle soup",
-      "peanut": "Bañados en salsa de cacahuate — adictivo",
-      "kids": "Salsa para niños: 2 cdas soya + 2 cdas vinagre de manzana + un toque de jengibre y ajo rallado"
+      "peanut": "Mézclalos con tu salsa asiática favorita como una salsa de cacahuate con cacahuates tostados machacados y verduras al vapor — súper adictivo",
+      "kids": "TIP — Salsa para niños: 2 cdas salsa de soya, 2 cdas vinagre de manzana, y un toque de jengibre y ajo rallado. Mezcla bien."
     }
   },
   "faq": {
@@ -159,7 +158,7 @@
       },
       "frozen": {
         "q": "¿Cuánto duran en el congelador?",
-        "a": "Hasta 3 meses manteniendo todo su sabor y textura. Los congelamos inmediatamente después de hacerlos para preservar la frescura."
+        "a": "Hasta 1 año mientras estén bien sellados, manteniendo todo su sabor y textura. Los congelamos inmediatamente después de hacerlos para preservar la frescura."
       },
       "refreeze": {
         "q": "¿Puedo recongelarlos?",
@@ -167,7 +166,7 @@
       },
       "quantity": {
         "q": "¿Cuántos dumplings vienen por bolsa?",
-        "a": "La bolsa grande (1.2kg) trae aproximadamente 40 dumplings y la chica (600g) aproximadamente 20. Tip: la bolsa grande rinde para 4-5 personas."
+        "a": "La bolsa grande (1.2kg) trae aproximadamente 60-65 dumplings y la chica (600g) aproximadamente 30. Tip: la bolsa grande rinde para 4-5 personas."
       },
       "payment": {
         "q": "¿Cómo puedo pagar?",
@@ -175,7 +174,7 @@
       },
       "delivery": {
         "q": "¿Hacen entregas a domicilio?",
-        "a": "¡Sí! Entrega GRATIS en Lomas de Angelópolis. También nos encuentras en Arte Sano (Cholula) y La Regiomontana (Zerezotla)."
+        "a": "¡Sí! Entrega GRATIS en Lomas de Angelópolis (Lomas 1, 2 y 3). También nos encuentras en Arte Sano (Cholula) y La Regiomontana (Zerezotla)."
       },
       "allergens": {
         "q": "¿Contienen alérgenos?",
@@ -191,7 +190,7 @@
     "title": "¿Dónde Los Consigo?",
     "delivery": {
       "title": "Te Los Llevamos",
-      "subtitle": "Entrega GRATIS en Lomas de Angelópolis",
+      "subtitle": "Entrega GRATIS en Lomas de Angelópolis (Lomas 1, 2 y 3)",
       "cta": "Pedir por WhatsApp"
     },
     "stores": {
@@ -202,9 +201,8 @@
   "footer": {
     "followUs": "Síguenos",
     "contact": "Contacto",
-    "recycleMsg": "Recíclame — Dale una segunda vida a nuestras bolsas",
     "privacy": "Aviso de Privacidad",
-    "terms": "Terminos y Condiciones",
+    "terms": "Términos y Condiciones",
     "rights": "Todos los derechos reservados"
   }
 }

@@ -1,6 +1,6 @@
 {
   "nav": {
-    "products": "Flavors",
+    "products": "Flavours",
     "whySpecial": "Why Choose Us",
     "testimonials": "Reviews",
     "story": "Our Story",
@@ -9,14 +9,14 @@
     "whereToBuy": "Where to Buy"
   },
   "hero": {
-    "headline": "The Dumplings Puebla Was Waiting For",
+    "headline": "Traditions in Every Bite",
     "subheadline": "100-year family recipe. Handmade with local ingredients. From freezer to table in 7 minutes.",
     "tagline": "Culinary tradition: Where artisanal is born in the hands",
     "cta": "Order Yours on WhatsApp"
   },
   "products": {
-    "title": "Find Your Favorite Flavor",
-    "subtitle": "6 artisanal flavors — each with its own personality. Which one will you crave?",
+    "title": "Find Your Favourite Flavour",
+    "subtitle": "6 artisanal flavours — each with its own personality. Which one will you crave?",
     "seasonal": "Seasonal",
     "bestSeller": "Best Seller",
     "ingredients": "Ingredients",
@@ -38,25 +38,25 @@
       "koreanChicken": {
         "name": "Korean Chicken",
         "nameEn": "Korean Chicken",
-        "description": "Big, stuffed, and loaded with hidden veggies kids won't even notice. Fresh chicken with carrots, zucchini, Korean cabbage, and rice noodles. Moms love these!",
+        "description": "Big, stuffed, and loaded with hidden veggies kids won't even notice. Fresh chicken with carrots, zucchini, Korean cabbage, and rice noodles. Mums love these!",
         "ingredients": "Chicken, zucchini, carrots, Korean cabbage, rice vermicelli"
       },
       "vegan": {
         "name": "Vegan",
         "nameEn": "Vegan",
-        "description": "One of a kind in Mexico. Puebla's huitlacoche, mushrooms, and a secret blend of 13+ East African spices. No eggs, no meat, but ALL the flavor.",
+        "description": "One of a kind in Mexico. Puebla's huitlacoche, mushrooms, and a secret blend of 13+ East African spices. No eggs, no meat, but ALL the flavour.",
         "ingredients": "Mushrooms, huitlacoche, cabbage, carrots, brown rice, soy, 13+ spices"
       },
       "soupDumplings": {
         "name": "Soup Dumplings",
         "nameEn": "Soup Dumplings",
-        "description": "We call them \"Fountain of Youth\". Each dumpling holds 8-hour collagen broth, pork, and fresh leeks. Bite in and they burst with flavor.",
+        "description": "We call them \"Fountain of Youth\". Each dumpling holds 8-hour collagen broth, pork, and fresh leeks. Bite in and they burst with flavour.",
         "ingredients": "Pork, fresh leeks, collagen broth (8 hours)"
       },
       "salsa": {
         "name": "NHK Hot Sauce",
         "nameEn": "NHK Hot Sauce",
-        "description": "When Hong Kong meets Mexico, delicious things happen. Our thick, spicy, flavor-packed sauce. Dilute with soy sauce and vinegar to taste. Goes with everything!",
+        "description": "When Hong Kong meets Mexico, delicious things happen. Our thick, spicy, flavour-packed sauce. Dilute with soy sauce and vinegar to taste. Goes with everything!",
         "ingredients": "Árbol chili, spices, chili powder, peanuts, sesame"
       }
     }
@@ -73,22 +73,21 @@
       "fresh": "Freshly made → flash frozen",
       "local": "Made in Puebla with local ingredients"
     },
-    "recycle": "Recycle Me",
-    "recycleText": "Our bags are vacuum-sealed. Give them a second life before tossing — the planet thanks you.",
-    "lunch": "Mom tip: perfect for school lunchboxes"
+    "lunch": "Mum tip: perfect for school lunchboxes"
   },
   "howToOrder": {
     "title": "Ordering Is Super Easy",
     "steps": {
-      "choose": "Pick your flavors",
+      "choose": "Pick your flavours",
       "message": "Message us on WhatsApp",
-      "receive": "Get them at your door"
+      "receive": "Get them at your door*"
     },
+    "deliveryNote": "*Free delivery only in Lomas 1, 2 & 3. For other areas, check our available stores.",
     "cta": "Start My Order"
   },
   "testimonials": {
     "title": "What Our Families Say",
-    "subtitle": "100+ families in Puebla have tried them — here's what they think"
+    "subtitle": "1,000+ families in Puebla have tried them — here's what they think"
   },
   "story": {
     "title": "From Shandong to Your Table",
@@ -101,17 +100,17 @@
     "hongkong": {
       "title": "Hong Kong",
       "year": "~1950s",
-      "text": "The family moved to Hong Kong and the recipe became the favorite tradition: sitting together, wrapping dumplings, and eating them fresh."
+      "text": "The family moved to Hong Kong and the recipe became the favourite tradition: sitting together, wrapping dumplings, and eating them fresh."
     },
     "vancouver": {
       "title": "Vancouver, Canada",
       "year": "~1980s",
-      "text": "Our parents brought these flavors to Canada and opened a restaurant. The recipe won hearts across the Pacific."
+      "text": "Our parents brought these flavours to Canada and opened a restaurant. The recipe won hearts across the Pacific."
     },
     "puebla": {
       "title": "Puebla, Mexico",
       "year": "Today",
-      "text": "Now we make our dumplings right here, with fresh local Puebla ingredients. 100 years of tradition, reinvented with Mexican flavor."
+      "text": "Now we make our dumplings right here, with fresh local Puebla ingredients. 100 years of tradition, reinvented with Mexican flavour."
     },
     "narrative": "This is how our grandmothers made dumplings: we'd all sit at the table, wrap them together, and cook them on the spot. To preserve that essence, we wrap everything fresh by hand and flash-freeze immediately. No factories. No machines. Just hands, love, and a 100-year recipe."
   },
@@ -125,7 +124,7 @@
         "steps": "Boil water. Place dumplings in a steamer basket with parchment paper. Cover and steam 7-10 min. Soft and juicy."
       },
       "panFry": {
-        "title": "Pan Fry (The Favorite)",
+        "title": "Pan Fry (The Favourite)",
         "steps": "Heat oil in a non-stick pan. Place dumplings. Fry until golden on the bottom. Add ½ cup water, cover and let it evaporate. Result: crispy outside, juicy inside."
       },
       "boil": {
@@ -138,7 +137,7 @@
       }
     },
     "videoTitle": "Watch how they're made",
-    "chickenNote": "Chicken dumplings take 10 minutes in all methods.",
+    "chickenNote": "Chicken dumplings take 10 extra minutes in all methods.",
     "servingTitle": "Serving Ideas",
     "servingSubtitle": "Dumplings are just the start — there are endless ways to enjoy them",
     "servings": {
@@ -146,8 +145,8 @@
       "salad": "On a fresh salad with Asian dressing",
       "soup": "In a hot broth with veggies — comfort food level 100",
       "noodles": "With noodles and broth — noodle soup style",
-      "peanut": "Drizzled with peanut sauce — addictive",
-      "kids": "Kids' sauce: 2 tbsp soy + 2 tbsp apple cider vinegar + a touch of grated ginger and garlic"
+      "peanut": "Toss them with your favourite Asian sauce like a savoury peanut sauce with crushed toasted peanuts and steamed vegetables — super addictive",
+      "kids": "TIP — Kid-friendly sauce: 2 tbsp soy sauce, 2 tbsp apple cider vinegar, and a touch of grated ginger and garlic. Stir well."
     }
   },
   "faq": {
@@ -159,15 +158,15 @@
       },
       "frozen": {
         "q": "How long do they last in the freezer?",
-        "a": "Up to 3 months, keeping all their flavor and texture. We freeze them immediately after making them to lock in freshness."
+        "a": "Up to 1 year as long as they are sealed well, keeping all their flavour and texture. We freeze them immediately after making them to lock in freshness."
       },
       "refreeze": {
         "q": "Can I refreeze them?",
-        "a": "We don't recommend it. Cook them straight from frozen for the best flavor and texture. But don't worry — they only take 7 minutes to prepare."
+        "a": "We don't recommend it. Cook them straight from frozen for the best flavour and texture. But don't worry — they only take 7 minutes to prepare."
       },
       "quantity": {
         "q": "How many dumplings per bag?",
-        "a": "The large bag (1.2kg) has about 40 dumplings and the small one (600g) about 20. Tip: the large bag serves 4-5 people."
+        "a": "The large bag (1.2kg) has about 60-65 dumplings and the small one (600g) about 30. Tip: the large bag serves 4-5 people."
       },
       "payment": {
         "q": "How can I pay?",
@@ -175,15 +174,15 @@
       },
       "delivery": {
         "q": "Do you deliver?",
-        "a": "Yes! FREE delivery in Lomas de Angelópolis. You can also find us at Arte Sano (Cholula) and La Regiomontana (Zerezotla)."
+        "a": "Yes! FREE delivery in Lomas de Angelópolis (Lomas 1, 2 & 3). You can also find us at Arte Sano (Cholula) and La Regiomontana (Zerezotla)."
       },
       "allergens": {
         "q": "Do they contain allergens?",
-        "a": "Our dumplings contain gluten (dough), soy, and sesame. The vegan version has NO eggs or meat. Each flavor has specific ingredients — check them in the products section."
+        "a": "Our dumplings contain gluten (dough), soy, and sesame. The vegan version has NO eggs or meat. Each flavour has specific ingredients — check them in the products section."
       },
       "authentic": {
         "q": "Are these authentic Chinese dumplings?",
-        "a": "100%. Our recipe is over 100 years old and comes straight from Shandong, China. It traveled through Hong Kong, Vancouver, and now it's made in Puebla. Same family recipe, fresh local ingredients."
+        "a": "100%. Our recipe is over 100 years old and comes straight from Shandong, China. It travelled through Hong Kong, Vancouver, and now it's made in Puebla. Same family recipe, fresh local ingredients."
       }
     }
   },
@@ -191,7 +190,7 @@
     "title": "Where to Get Them",
     "delivery": {
       "title": "We Deliver",
-      "subtitle": "FREE delivery in Lomas de Angelópolis",
+      "subtitle": "FREE delivery in Lomas de Angelópolis (Lomas 1, 2 & 3)",
       "cta": "Order via WhatsApp"
     },
     "stores": {
@@ -202,7 +201,6 @@
   "footer": {
     "followUs": "Follow Us",
     "contact": "Contact",
-    "recycleMsg": "Recycle Me — Give our bags a second life",
     "privacy": "Privacy Policy",
     "terms": "Terms & Conditions",
     "rights": "All rights reserved"
