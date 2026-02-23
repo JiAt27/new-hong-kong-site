@@ -26,7 +26,7 @@ export default function JourneyMap() {
   const mapRef = useRef<HTMLDivElement>(null);
   const [visible, setVisible] = useState(false);
   const [progress, setProgress] = useState(0);
-  const [boatPos, setBoatPos] = useState({ x: cities[0].x, y: cities[0].y });
+  const [boatPos, setBoatPos] = useState<{ x: number; y: number }>({ x: cities[0].x, y: cities[0].y });
   const [pathLength, setPathLength] = useState(DEFAULT_PATH_LENGTH);
   const pathRef = useRef<SVGPathElement>(null);
 
