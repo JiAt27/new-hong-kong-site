@@ -1,0 +1,99 @@
+@import "tailwindcss";
+@import "@fontsource/jost/400.css";
+@import "@fontsource/jost/500.css";
+@import "@fontsource/jost/600.css";
+@import "@fontsource/jost/700.css";
+@import "@fontsource/nunito-sans/400.css";
+@import "@fontsource/nunito-sans/600.css";
+@import "@fontsource/nunito-sans/700.css";
+
+@theme {
+  --color-navy-50: #f0f3f7;
+  --color-navy-100: #d4dce8;
+  --color-navy-200: #a9b9d1;
+  --color-navy-300: #7e96ba;
+  --color-navy-400: #5373a3;
+  --color-navy-500: #1B365D;
+  --color-navy-600: #162c4e;
+  --color-navy-700: #11213b;
+  --color-navy-800: #0c1627;
+  --color-navy-900: #070b14;
+
+  --color-brand-red: #C8102E;
+  --color-brand-red-dark: #a00d24;
+  --color-brand-green: #2D6A4F;
+  --color-brand-purple: #6B3FA0;
+  --color-brand-orange: #E07C24;
+  --color-brand-gold: #D4A843;
+  --color-brand-cream: #FFF9F0;
+  --color-whatsapp: #25D366;
+
+  --font-display: "Jost", system-ui, sans-serif;
+  --font-body: "Nunito Sans", system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 8rem;
+  font-family: var(--font-body);
+}
+
+body {
+  background-color: var(--color-brand-cream);
+  color: var(--color-navy-800);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+}
+
+/* Scrollbar hide utility */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Cloud float animation */
+@keyframes float-clouds {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-float-clouds {
+  animation: float-clouds 60s linear infinite;
+}
+
+/* Ken Burns effect */
+@keyframes ken-burns {
+  0% { transform: scale(1); }
+  100% { transform: scale(1.08); }
+}
+
+.animate-ken-burns {
+  animation: ken-burns 20s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+/* Stamp pop animation */
+@keyframes stamp-pop {
+  0% { transform: scale(0) rotate(-10deg); opacity: 0; }
+  60% { transform: scale(1.15) rotate(2deg); opacity: 1; }
+  100% { transform: scale(1) rotate(0deg); opacity: 1; }
+}
+
+/* Pulse once (for WhatsApp FAB) */
+@keyframes pulse-once {
+  0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5); }
+  50% { transform: scale(1.08); box-shadow: 0 0 0 15px rgba(37, 211, 102, 0); }
+  100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(37, 211, 102, 0); }
+}
+
+/* Draw path animation for journey */
+@keyframes draw-path {
+  to { stroke-dashoffset: 0; }
+}

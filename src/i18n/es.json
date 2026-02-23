@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "products": "Sabores",
+    "whySpecial": "Por Qué Elegirnos",
+    "testimonials": "Reseñas",
+    "story": "Nuestra Historia",
+    "howToCook": "Cómo Cocinar",
+    "faq": "Preguntas",
+    "whereToBuy": "Dónde Comprar"
+  },
+  "hero": {
+    "headline": "Los Dumplings Que Puebla Estaba Esperando",
+    "subheadline": "Receta familiar de 100 años. Hechos a mano con ingredientes locales. Del congelador a tu mesa en 7 minutos.",
+    "tagline": "Tradición culinaria: Donde lo artesanal nace en las manos",
+    "cta": "Pide los Tuyos por WhatsApp"
+  },
+  "products": {
+    "title": "Encuentra Tu Sabor Favorito",
+    "subtitle": "6 sabores artesanales — cada uno con su propia personalidad. ¿Cuál te vas a antojar?",
+    "seasonal": "De Temporada",
+    "bestSeller": "Más Vendido",
+    "ingredients": "Ingredientes",
+    "cta": "¿Ya se te antojaron?",
+    "ctaButton": "Pedir",
+    "items": {
+      "chivePork": {
+        "name": "Cebollín y Cerdo",
+        "nameEn": "Chive & Pork",
+        "description": "Nuestro más vendido por algo. Rellenos de cerdo jugoso, cebollín fresco y una marinada especial que no vas a encontrar en ningún lado. Intensos, jugosos y adictivos.",
+        "ingredients": "Cerdo, cebollín, adobo especial"
+      },
+      "cabbagePork": {
+        "name": "Col y Cerdo",
+        "nameEn": "Cabbage & Pork",
+        "description": "Suaves, delicados y perfectos para toda la familia. Repollo fresco, cerdo y un toque de aceite de sésamo japonés que los hace irresistibles. Los favoritos de los niños.",
+        "ingredients": "Cerdo, repollo, jengibre, aceite de sésamo japonés"
+      },
+      "koreanChicken": {
+        "name": "Pollo Coreano",
+        "nameEn": "Korean Chicken",
+        "description": "Grandes, rellenos y con vegetales escondidos que ni los peques notan. Pollo fresco con zanahorias, calabacín, col coreana y fideos de arroz. ¡Las mamás los aman!",
+        "ingredients": "Pollo, calabacín, zanahorias, col coreana, fideos de arroz vermicelli"
+      },
+      "vegan": {
+        "name": "Vegano",
+        "nameEn": "Vegan",
+        "description": "Únicos en México. Huitlacoche de Puebla, setas y una mezcla secreta de 13+ especias del Este de África. Sin huevo, sin carne, pero con TODO el sabor.",
+        "ingredients": "Setas, huitlacoche, col, zanahorias, arroz integral, soya, 13+ especias"
+      },
+      "soupDumplings": {
+        "name": "Dumplings de Sopa",
+        "nameEn": "Soup Dumplings",
+        "description": "Les decimos \"Fountain of Youth\". Cada dumpling tiene caldo de colágeno hervido 8 horas, cerdo y puerros frescos. Los muerdes y explotan de sabor.",
+        "ingredients": "Cerdo, puerros frescos, sopa de colágeno (8 horas)"
+      },
+      "salsa": {
+        "name": "Salsa Picante NHK",
+        "nameEn": "NHK Hot Sauce",
+        "description": "Cuando Hong Kong se encuentra con México, pasan cosas deliciosas. Nuestra salsa espesa, picosita y llena de sabor. Dilúyela con soya y vinagre al gusto. ¡Queda con todo!",
+        "ingredients": "Chile de árbol, especias, chile en polvo, cacahuate, ajonjolí"
+      }
+    }
+  },
+  "whySpecial": {
+    "title": "¿Por Qué NEW HONG KONG?",
+    "subtitle": "Porque no somos dumplings de supermercado. Esto es otra cosa.",
+    "badges": {
+      "meat": "100% carne y verduras frescas — cero rellenos",
+      "handmade": "Cada dumpling envuelto a mano",
+      "noMsg": "Sin MSG",
+      "noPreservatives": "Sin conservantes artificiales",
+      "water": "Hechos con agua alcalina ionizada pH 9.0",
+      "fresh": "Recién hechos → congelados al instante",
+      "local": "Hechos en Puebla con ingredientes locales"
+    },
+    "recycle": "Recíclame",
+    "recycleText": "Nuestras bolsas son selladas al vacío. Dales una segunda vida antes de desecharlas — el planeta te lo agradece.",
+    "lunch": "Tip de mamá: perfectos para el lunch escolar"
+  },
+  "howToOrder": {
+    "title": "Ordenar Es Súper Fácil",
+    "steps": {
+      "choose": "Elige tus sabores",
+      "message": "Mándanos WhatsApp",
+      "receive": "Recibe en tu puerta"
+    },
+    "cta": "Empezar Mi Pedido"
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestras Familias",
+    "subtitle": "Más de 100 familias en Puebla ya los probaron — esto es lo que opinan"
+  },
+  "story": {
+    "title": "De Shandong a Tu Mesa",
+    "subtitle": "Una receta de 4 generaciones que cruzó el mundo para llegar a Puebla",
+    "shandong": {
+      "title": "Shandong, China",
+      "year": "~1920s",
+      "text": "Aquí nació todo. Nuestros bisabuelos crearon la receta original que se ha pasado de generación en generación por más de 100 años."
+    },
+    "hongkong": {
+      "title": "Hong Kong",
+      "year": "~1950s",
+      "text": "La familia emigró a Hong Kong y la receta se volvió la tradición favorita: sentarse juntos, envolver dumplings y comerlos al instante."
+    },
+    "vancouver": {
+      "title": "Vancouver, Canadá",
+      "year": "~1980s",
+      "text": "Nuestros padres llevaron estos sabores a Canadá y abrieron un restaurante. La receta conquistó paladares del otro lado del mundo."
+    },
+    "puebla": {
+      "title": "Puebla, México",
+      "year": "Hoy",
+      "text": "Ahora hacemos nuestros dumplings aquí, con ingredientes locales de Puebla. 100 años de tradición, reinventada con sabor mexicano."
+    },
+    "narrative": "Así hacían dumplings nuestras abuelas: nos sentábamos todas a la mesa, los envolvíamos juntas, y los cocinábamos al momento. Para conservar esa esencia, los envolvemos frescos a mano y los congelamos de inmediato. Nada de fábricas. Nada de máquinas. Solo manos, amor y una receta de 100 años."
+  },
+  "howToCook": {
+    "title": "¿Cómo Se Cocinan?",
+    "subtitle": "Más fácil de lo que piensas — del congelador a tu plato en minutos",
+    "warning": "⚡ IMPORTANTE: Cocina directo del congelador. Nunca los descongeles antes.",
+    "methods": {
+      "steam": {
+        "title": "Al Vapor",
+        "steps": "Hierve agua. Coloca los dumplings en una vaporera con papel pergamino. Tapa y cocina 7-10 min. Quedan suaves y jugosos."
+      },
+      "panFry": {
+        "title": "Freídos (El Favorito)",
+        "steps": "Calienta aceite en sartén antiadherente. Coloca los dumplings. Dóralos por abajo. Agrega ½ taza de agua, tapa y deja que se evapore. Resultado: crujientes por fuera, jugosos por dentro."
+      },
+      "boil": {
+        "title": "Hervidos",
+        "steps": "Hierve agua en olla. Agrega los dumplings y revuelve suavemente. Cocina hasta que floten (~7 min). Escurre y sirve. Sencillo y delicioso."
+      },
+      "airFry": {
+        "title": "Air Fryer",
+        "steps": "Precalienta tu air fryer a 180°C. Rocía los dumplings con un poco de aceite. Cocina 10-12 min volteando a la mitad. ¡Quedan increíblemente crujientes!"
+      }
+    },
+    "videoTitle": "Mira cómo se preparan",
+    "chickenNote": "Los dumplings de pollo tardan 10 minutos en todos los métodos.",
+    "servingTitle": "Ideas Para Servirlos",
+    "servingSubtitle": "Los dumplings son solo el inicio — hay mil formas de disfrutarlos",
+    "servings": {
+      "salsa": "Con nuestra salsa picante NHK + soya y vinagre",
+      "salad": "Sobre una ensalada fresca con aderezo asiático",
+      "soup": "En un caldo caliente con verduras — comfort food nivel 100",
+      "noodles": "Con fideos y caldo — estilo noodle soup",
+      "peanut": "Bañados en salsa de cacahuate — adictivo",
+      "kids": "Salsa para niños: 2 cdas soya + 2 cdas vinagre de manzana + un toque de jengibre y ajo rallado"
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": {
+      "what": {
+        "q": "¿Qué son los dumplings?",
+        "a": "Son bolitas de masa rellenas de carne, verduras o ambas — un platillo tradicional asiático con más de 1,800 años de historia. Los nuestros son artesanales, hechos a mano en Puebla con receta familiar de 100 años. Piensa en una empanada asiática, pero más jugosa y versátil."
+      },
+      "frozen": {
+        "q": "¿Cuánto duran en el congelador?",
+        "a": "Hasta 3 meses manteniendo todo su sabor y textura. Los congelamos inmediatamente después de hacerlos para preservar la frescura."
+      },
+      "refreeze": {
+        "q": "¿Puedo recongelarlos?",
+        "a": "No lo recomendamos. Cocínalos directo del congelador para el mejor sabor y textura. Pero tranquilo — se preparan en solo 7 minutos."
+      },
+      "quantity": {
+        "q": "¿Cuántos dumplings vienen por bolsa?",
+        "a": "La bolsa grande (1.2kg) trae aproximadamente 40 dumplings y la chica (600g) aproximadamente 20. Tip: la bolsa grande rinde para 4-5 personas."
+      },
+      "payment": {
+        "q": "¿Cómo puedo pagar?",
+        "a": "Transferencia bancaria, efectivo contra entrega, o tarjeta. Lo que te sea más cómodo."
+      },
+      "delivery": {
+        "q": "¿Hacen entregas a domicilio?",
+        "a": "¡Sí! Entrega GRATIS en Lomas de Angelópolis. También nos encuentras en Arte Sano (Cholula) y La Regiomontana (Zerezotla)."
+      },
+      "allergens": {
+        "q": "¿Contienen alérgenos?",
+        "a": "Nuestros dumplings contienen gluten (masa), soya y sésamo. La versión vegana NO contiene huevo ni carne. Cada sabor tiene sus ingredientes específicos — revísalos en la sección de productos."
+      },
+      "authentic": {
+        "q": "¿Son auténticos dumplings chinos?",
+        "a": "100%. Nuestra receta tiene más de 100 años y viene directamente de Shandong, China. Pasó por Hong Kong, Vancouver y ahora se hace en Puebla. Es la misma receta de la familia, con ingredientes frescos locales."
+      }
+    }
+  },
+  "whereToBuy": {
+    "title": "¿Dónde Los Consigo?",
+    "delivery": {
+      "title": "Te Los Llevamos",
+      "subtitle": "Entrega GRATIS en Lomas de Angelópolis",
+      "cta": "Pedir por WhatsApp"
+    },
+    "stores": {
+      "title": "Encuéntranos En Tienda",
+      "openMaps": "Abrir en Google Maps"
+    }
+  },
+  "footer": {
+    "followUs": "Síguenos",
+    "contact": "Contacto",
+    "recycleMsg": "Recíclame — Dale una segunda vida a nuestras bolsas",
+    "privacy": "Aviso de Privacidad",
+    "terms": "Terminos y Condiciones",
+    "rights": "Todos los derechos reservados"
+  }
+}

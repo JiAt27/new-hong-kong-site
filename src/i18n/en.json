@@ -1,0 +1,210 @@
+{
+  "nav": {
+    "products": "Flavors",
+    "whySpecial": "Why Choose Us",
+    "testimonials": "Reviews",
+    "story": "Our Story",
+    "howToCook": "How to Cook",
+    "faq": "FAQ",
+    "whereToBuy": "Where to Buy"
+  },
+  "hero": {
+    "headline": "The Dumplings Puebla Was Waiting For",
+    "subheadline": "100-year family recipe. Handmade with local ingredients. From freezer to table in 7 minutes.",
+    "tagline": "Culinary tradition: Where artisanal is born in the hands",
+    "cta": "Order Yours on WhatsApp"
+  },
+  "products": {
+    "title": "Find Your Favorite Flavor",
+    "subtitle": "6 artisanal flavors — each with its own personality. Which one will you crave?",
+    "seasonal": "Seasonal",
+    "bestSeller": "Best Seller",
+    "ingredients": "Ingredients",
+    "cta": "Craving some yet?",
+    "ctaButton": "Order",
+    "items": {
+      "chivePork": {
+        "name": "Chive & Pork",
+        "nameEn": "Chive & Pork",
+        "description": "Our best seller for a reason. Packed with juicy pork, fresh chives, and a special marinade you won't find anywhere else. Intense, juicy, and addictive.",
+        "ingredients": "Pork, chives, special marinade"
+      },
+      "cabbagePork": {
+        "name": "Cabbage & Pork",
+        "nameEn": "Cabbage & Pork",
+        "description": "Soft, delicate, and perfect for the whole family. Fresh cabbage, pork, and a touch of Japanese sesame oil that makes them irresistible. Kid-approved.",
+        "ingredients": "Pork, cabbage, ginger, Japanese sesame oil"
+      },
+      "koreanChicken": {
+        "name": "Korean Chicken",
+        "nameEn": "Korean Chicken",
+        "description": "Big, stuffed, and loaded with hidden veggies kids won't even notice. Fresh chicken with carrots, zucchini, Korean cabbage, and rice noodles. Moms love these!",
+        "ingredients": "Chicken, zucchini, carrots, Korean cabbage, rice vermicelli"
+      },
+      "vegan": {
+        "name": "Vegan",
+        "nameEn": "Vegan",
+        "description": "One of a kind in Mexico. Puebla's huitlacoche, mushrooms, and a secret blend of 13+ East African spices. No eggs, no meat, but ALL the flavor.",
+        "ingredients": "Mushrooms, huitlacoche, cabbage, carrots, brown rice, soy, 13+ spices"
+      },
+      "soupDumplings": {
+        "name": "Soup Dumplings",
+        "nameEn": "Soup Dumplings",
+        "description": "We call them \"Fountain of Youth\". Each dumpling holds 8-hour collagen broth, pork, and fresh leeks. Bite in and they burst with flavor.",
+        "ingredients": "Pork, fresh leeks, collagen broth (8 hours)"
+      },
+      "salsa": {
+        "name": "NHK Hot Sauce",
+        "nameEn": "NHK Hot Sauce",
+        "description": "When Hong Kong meets Mexico, delicious things happen. Our thick, spicy, flavor-packed sauce. Dilute with soy sauce and vinegar to taste. Goes with everything!",
+        "ingredients": "Árbol chili, spices, chili powder, peanuts, sesame"
+      }
+    }
+  },
+  "whySpecial": {
+    "title": "Why NEW HONG KONG?",
+    "subtitle": "Because we're not supermarket dumplings. This is something else.",
+    "badges": {
+      "meat": "100% fresh meat & vegetables — zero fillers",
+      "handmade": "Every dumpling wrapped by hand",
+      "noMsg": "No MSG",
+      "noPreservatives": "No artificial preservatives",
+      "water": "Made with alkaline ionized water pH 9.0",
+      "fresh": "Freshly made → flash frozen",
+      "local": "Made in Puebla with local ingredients"
+    },
+    "recycle": "Recycle Me",
+    "recycleText": "Our bags are vacuum-sealed. Give them a second life before tossing — the planet thanks you.",
+    "lunch": "Mom tip: perfect for school lunchboxes"
+  },
+  "howToOrder": {
+    "title": "Ordering Is Super Easy",
+    "steps": {
+      "choose": "Pick your flavors",
+      "message": "Message us on WhatsApp",
+      "receive": "Get them at your door"
+    },
+    "cta": "Start My Order"
+  },
+  "testimonials": {
+    "title": "What Our Families Say",
+    "subtitle": "100+ families in Puebla have tried them — here's what they think"
+  },
+  "story": {
+    "title": "From Shandong to Your Table",
+    "subtitle": "A 4-generation recipe that crossed the world to reach Puebla",
+    "shandong": {
+      "title": "Shandong, China",
+      "year": "~1920s",
+      "text": "Where it all began. Our great-grandparents created the original recipe — passed down through 4 generations for over 100 years."
+    },
+    "hongkong": {
+      "title": "Hong Kong",
+      "year": "~1950s",
+      "text": "The family moved to Hong Kong and the recipe became the favorite tradition: sitting together, wrapping dumplings, and eating them fresh."
+    },
+    "vancouver": {
+      "title": "Vancouver, Canada",
+      "year": "~1980s",
+      "text": "Our parents brought these flavors to Canada and opened a restaurant. The recipe won hearts across the Pacific."
+    },
+    "puebla": {
+      "title": "Puebla, Mexico",
+      "year": "Today",
+      "text": "Now we make our dumplings right here, with fresh local Puebla ingredients. 100 years of tradition, reinvented with Mexican flavor."
+    },
+    "narrative": "This is how our grandmothers made dumplings: we'd all sit at the table, wrap them together, and cook them on the spot. To preserve that essence, we wrap everything fresh by hand and flash-freeze immediately. No factories. No machines. Just hands, love, and a 100-year recipe."
+  },
+  "howToCook": {
+    "title": "How to Cook Them",
+    "subtitle": "Easier than you think — from freezer to plate in minutes",
+    "warning": "⚡ IMPORTANT: Cook straight from frozen. Never thaw first.",
+    "methods": {
+      "steam": {
+        "title": "Steam",
+        "steps": "Boil water. Place dumplings in a steamer basket with parchment paper. Cover and steam 7-10 min. Soft and juicy."
+      },
+      "panFry": {
+        "title": "Pan Fry (The Favorite)",
+        "steps": "Heat oil in a non-stick pan. Place dumplings. Fry until golden on the bottom. Add ½ cup water, cover and let it evaporate. Result: crispy outside, juicy inside."
+      },
+      "boil": {
+        "title": "Boil",
+        "steps": "Boil water in a pot. Add dumplings and gently stir. Cook until they float (~7 min). Drain and serve. Simple and delicious."
+      },
+      "airFry": {
+        "title": "Air Fryer",
+        "steps": "Preheat air fryer to 180°C/350°F. Lightly spray dumplings with oil. Cook 10-12 min, flipping halfway. Incredibly crispy!"
+      }
+    },
+    "videoTitle": "Watch how they're made",
+    "chickenNote": "Chicken dumplings take 10 minutes in all methods.",
+    "servingTitle": "Serving Ideas",
+    "servingSubtitle": "Dumplings are just the start — there are endless ways to enjoy them",
+    "servings": {
+      "salsa": "With our NHK hot sauce + soy sauce and vinegar",
+      "salad": "On a fresh salad with Asian dressing",
+      "soup": "In a hot broth with veggies — comfort food level 100",
+      "noodles": "With noodles and broth — noodle soup style",
+      "peanut": "Drizzled with peanut sauce — addictive",
+      "kids": "Kids' sauce: 2 tbsp soy + 2 tbsp apple cider vinegar + a touch of grated ginger and garlic"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": {
+      "what": {
+        "q": "What are dumplings?",
+        "a": "They're little dough pockets filled with meat, vegetables, or both — a traditional Asian dish with over 1,800 years of history. Ours are artisanal, handmade in Puebla with a 100-year family recipe. Think of them as Asian empanadas, but juicier and more versatile."
+      },
+      "frozen": {
+        "q": "How long do they last in the freezer?",
+        "a": "Up to 3 months, keeping all their flavor and texture. We freeze them immediately after making them to lock in freshness."
+      },
+      "refreeze": {
+        "q": "Can I refreeze them?",
+        "a": "We don't recommend it. Cook them straight from frozen for the best flavor and texture. But don't worry — they only take 7 minutes to prepare."
+      },
+      "quantity": {
+        "q": "How many dumplings per bag?",
+        "a": "The large bag (1.2kg) has about 40 dumplings and the small one (600g) about 20. Tip: the large bag serves 4-5 people."
+      },
+      "payment": {
+        "q": "How can I pay?",
+        "a": "Bank transfer, cash on delivery, or card. Whatever works best for you."
+      },
+      "delivery": {
+        "q": "Do you deliver?",
+        "a": "Yes! FREE delivery in Lomas de Angelópolis. You can also find us at Arte Sano (Cholula) and La Regiomontana (Zerezotla)."
+      },
+      "allergens": {
+        "q": "Do they contain allergens?",
+        "a": "Our dumplings contain gluten (dough), soy, and sesame. The vegan version has NO eggs or meat. Each flavor has specific ingredients — check them in the products section."
+      },
+      "authentic": {
+        "q": "Are these authentic Chinese dumplings?",
+        "a": "100%. Our recipe is over 100 years old and comes straight from Shandong, China. It traveled through Hong Kong, Vancouver, and now it's made in Puebla. Same family recipe, fresh local ingredients."
+      }
+    }
+  },
+  "whereToBuy": {
+    "title": "Where to Get Them",
+    "delivery": {
+      "title": "We Deliver",
+      "subtitle": "FREE delivery in Lomas de Angelópolis",
+      "cta": "Order via WhatsApp"
+    },
+    "stores": {
+      "title": "Find Us In Store",
+      "openMaps": "Open in Google Maps"
+    }
+  },
+  "footer": {
+    "followUs": "Follow Us",
+    "contact": "Contact",
+    "recycleMsg": "Recycle Me — Give our bags a second life",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "rights": "All rights reserved"
+  }
+}

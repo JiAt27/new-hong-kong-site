@@ -1,0 +1,19 @@
+{
+  "rewrites": [
+    { "source": "/((?!assets|og-image|favicon|icon-|apple-touch|cooking-video|privacy|terms|robots|sitemap).*)", "destination": "/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/og-image.jpg",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=86400" }
+      ]
+    }
+  ]
+}
