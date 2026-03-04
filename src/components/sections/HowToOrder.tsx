@@ -43,7 +43,7 @@ export default function HowToOrder() {
         <div className="flex flex-col sm:flex-row items-center justify-center gap-6 sm:gap-0 mb-10">
           {steps.map((step, i) => (
             <div key={step.key} className="flex items-center">
-              <div className="flex flex-col items-center text-center w-40">
+              <div className="flex flex-col items-center text-center w-full sm:w-40">
                 <div className="w-16 h-16 rounded-full bg-brand-red/10 flex items-center justify-center text-brand-red mb-3">
                   {step.icon}
                 </div>
