@@ -64,7 +64,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-white/20 mt-10 pt-6 pb-2 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/40 pr-20">
+        <div className="border-t border-white/20 mt-10 pt-6 pb-2 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-white/40">
           <p>&copy; {new Date().getFullYear()} NEW HONG KONG. {t('footer.rights')}</p>
           <div className="flex gap-4">
             <a href="/privacy.html" className="hover:text-white transition-colors">

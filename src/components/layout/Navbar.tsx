@@ -62,23 +62,34 @@ export default function Navbar() {
       </div>
 
       {/* Mobile pill navigation */}
-      <nav className="lg:hidden overflow-x-auto scrollbar-hide px-4 pb-3" aria-label="Mobile navigation">
-        <div className="flex gap-2 min-w-max">
-          {navItems.map((item) => (
-            <a
-              key={item.key}
-              href={item.href}
-              className={`whitespace-nowrap px-3 py-1.5 text-xs font-display font-semibold rounded-full transition-colors ${
-                scrolled
-                  ? 'bg-navy-500/10 text-navy-600 hover:bg-navy-500 hover:text-white'
-                  : 'bg-white/15 text-white/90 hover:bg-white/30'
-              }`}
-            >
-              {t(`nav.${item.key}`)}
-            </a>
-          ))}
-        </div>
-      </nav>
+      <div className="lg:hidden relative">
+        <nav className="overflow-x-auto scrollbar-hide px-4 pb-2" aria-label="Mobile navigation">
+          <div className="flex gap-2 min-w-max">
+            {navItems.map((item) => (
+              <a
+                key={item.key}
+                href={item.href}
+                className={`whitespace-nowrap px-4 py-2 text-xs font-display font-semibold rounded-full transition-colors ${
+                  scrolled
+                    ? 'bg-navy-500/10 text-navy-600 hover:bg-navy-500 hover:text-white'
+                    : 'bg-white/15 text-white/90 hover:bg-white/30'
+                }`}
+              >
+                {t(`nav.${item.key}`)}
+              </a>
+            ))}
+          </div>
+        </nav>
+        {/* Fade hint — indicates scrollable content to the right */}
+        <div
+          className={`pointer-events-none absolute right-0 top-0 bottom-2 w-10 ${
+            scrolled
+              ? 'bg-gradient-to-l from-brand-cream/90 to-transparent'
+              : 'bg-gradient-to-l from-navy-900/40 to-transparent'
+          }`}
+          aria-hidden="true"
+        />
+      </div>
     </header>
   );
 }

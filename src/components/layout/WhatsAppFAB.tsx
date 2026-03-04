@@ -15,7 +15,7 @@ export default function WhatsAppFAB() {
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Order via WhatsApp"
-      className={`fixed bottom-6 right-6 z-50 w-14 h-14 bg-whatsapp rounded-full flex items-center justify-center shadow-lg hover:shadow-2xl hover:scale-110 transition-all duration-300 ${
+      className={`fixed bottom-8 right-5 sm:bottom-6 sm:right-6 z-50 w-14 h-14 bg-whatsapp rounded-full flex items-center justify-center shadow-lg hover:shadow-2xl hover:scale-110 transition-all duration-300 ${
         animate ? 'animate-[pulse-once_1.5s_ease-out]' : ''
       }`}
     >

@@ -231,7 +231,7 @@ export default function JourneyMap() {
                 x={labelLeft ? city.x + 20 : city.x - 8 - city.label.length * 6.5 + 6}
                 y={city.y - 8}
                 fill="white"
-                fontSize="11"
+                fontSize="14"
                 fontFamily="Jost, sans-serif"
                 fontWeight="600"
               >
@@ -242,7 +242,7 @@ export default function JourneyMap() {
                 x={labelLeft ? city.x + 20 : city.x - 8 - city.year.length * 5.5}
                 y={city.y + 20}
                 fill={city.color}
-                fontSize="10"
+                fontSize="12"
                 fontFamily="Jost, sans-serif"
                 fontWeight="700"
               >
